@@ -1,0 +1,23 @@
+body {
+    line-height: 1.5;
+    width: 60%;
+    margin: 0 auto;
+    padding: 2% 0;
+    background-color: #ddd;
+    font-family: Helvetica, sans-serif;
+    color: #444;
+}
+
+h1, h2 {
+    color: rgb(140, 76, 8);
+}
+
+main {
+    background-color: white;
+}
+
+section {
+    margin-top: 0px;
+    padding-bottom: 5px;
+    border-top: solid 1px gray;
+}
