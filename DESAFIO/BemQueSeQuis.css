@@ -25,6 +25,7 @@ body {
     display: flex;
     justify-content: space-around;
     margin-top: 50px;
+    padding: 100px;
 }
 
 .text {
@@ -41,12 +42,20 @@ body {
     background: transparent;
 }
 
+
+/*
 .main-end {
     padding: 30px;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 100px;
     font-style: normal;
+    text-align:end;
+    color: white;
 }
+
+a {
+    color: white;
+}*/
 
   
