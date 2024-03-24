@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    padding: 5px;
+    font-family: "Tauri", sans-serif;
+    font-weight: 58;
+    font-style: normal;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    padding: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+  
